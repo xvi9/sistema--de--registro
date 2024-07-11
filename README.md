@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ```npm stall reactive```
+
+Sistema de Registro 2
