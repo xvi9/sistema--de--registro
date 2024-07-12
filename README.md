@@ -7,3 +7,4 @@ para ejecutar el sistema, debes poner:
 ```npm stall reactive```
 
 Sistema de Registro 3
+Sistema de Registro 3
